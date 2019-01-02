@@ -115,7 +115,4 @@ public class UserEntity implements Serializable {
 	public void setAddresses(List<AddressEntity> addresses) {
 		this.addresses = addresses;
 	}
-	
-	
-
 }

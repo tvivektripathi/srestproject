@@ -103,7 +103,4 @@ public class AddressEntity implements Serializable {
 	public void setUserDetails(UserEntity userDetails) {
 		this.userDetails = userDetails;
 	}
-	
-	
-
 }
